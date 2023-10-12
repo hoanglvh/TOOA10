@@ -1,4 +1,5 @@
 Tạo Jenkins, Gitlab và K8s Cluster
 Tạo CI/CD với app golang https://github.com/ybkuroki/vuejs-webapp-sample bằng docker. Build và push image lên docker hub
 Deploy image trên docker hub vào K8s Cluster
-Tạo VM có cài đặt nginx trên AWS, allow các port 22, 80.
+Tạo VM có cài đặt nginx trên AWS, allow các port 22, 80. Truy cập vào web, nginx trên VM.
+Lưu nội dung bài làm vào file, sao đó submit lên github
